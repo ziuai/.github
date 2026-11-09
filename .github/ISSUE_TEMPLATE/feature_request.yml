@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         A feature is only ready to build when the problem, the user and "done" are written down.
-        Larger features also need a short design doc; see docs/02-before-development-checklist.md in the ziuai-ai-tech/.github repository.
+        Larger features also need a short design doc; see docs/02-before-development-checklist.md in the ziuai/.github repository.
   - type: textarea
     id: problem
     attributes:
