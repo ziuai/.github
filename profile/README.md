@@ -1,14 +1,18 @@
 <!--
-  ZIUAI organization profile
-  Repo: github.com/ziuai-ai-tech/.github  ->  file: profile/README.md  (images in profile/assets/)
-  If your organization username is not "ziuai", replace "ziuai" in every image URL below.
+  ZIU AI organization profile
+  Repo: github.com/ziuai/.github  ->  file: profile/README.md  (images in profile/assets/)
+  The artwork follows the ZIU AI website theme and comes in a light and a dark variant.
+  It is generated: edit tools/build-profile-assets.mjs and run `node tools/build-profile-assets.mjs`.
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/header.svg" width="100%" alt="ZIUAI | Engineering & Technology — Building Intelligent Solutions Through Engineering Excellence"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/header-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/header-light.svg" width="100%" alt="ZIU AI. Engineering and Technology. Advise. Build. Run. Building intelligent solutions through engineering excellence."/>
+  </picture>
 </p>
 
-<h3 align="center">Welcome to the official GitHub organization of ZIUAI.</h3>
+<h3 align="center">Welcome to the official GitHub organization of ZIU AI.</h3>
 
 <p align="center">
   We build software products, AI-powered applications, automation solutions and scalable technology platforms.<br/>
@@ -17,23 +21,38 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/divider.svg" width="100%" alt=""/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/divider-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/divider-light.svg" width="100%" alt=""/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/principles.svg" width="100%" alt="Our Engineering Principles: Code Quality, Security First, Scalability, Reliability, Collaboration, Continuous Improvement"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/principles-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/principles-light.svg" width="100%" alt="Our engineering principles: Code Quality, Security First, Scalability, Reliability, Collaboration, Continuous Improvement"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/teams.svg" width="100%" alt="Technology and Engineering Teams: Frontend, Backend, AI/ML, Automation, QA, DevOps, Technical Management"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/teams-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/teams-light.svg" width="100%" alt="Technology and engineering teams: Frontend, Backend, AI/ML, Automation, QA, DevOps, Technical Management"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/pipeline.svg" width="100%" alt="How we ship: Task, Branch, Implement, Test, Commit, Pull Request, Review, Merge, Release"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/pipeline-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/pipeline-light.svg" width="100%" alt="How we ship: Task, Branch, Implement, Test, Commit, Pull Request, Review, Merge, Release. Review loops back to implementation until approved and all CI checks pass."/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/standards.svg" width="100%" alt="Development Standards"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/standards-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/standards-light.svg" width="100%" alt="Development standards. The rules every contributor follows. Open a section to read it."/>
+  </picture>
 </p>
 
 <details>
@@ -269,7 +288,10 @@ Documentation should be clear, accurate and updated alongside code changes.
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/divider.svg" width="100%" alt=""/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/divider-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/divider-light.svg" width="100%" alt=""/>
+  </picture>
 </p>
 
 <p align="center">
@@ -278,7 +300,10 @@ Documentation should be clear, accurate and updated alongside code changes.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziuai-ai-tech/.github/main/profile/assets/footer.svg" width="100%" alt="Let's build better technology together. Engineering Excellence. Innovation. Reliability."/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/footer-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ziuai/.github/main/profile/assets/footer-light.svg" width="100%" alt="Let's build better technology together. Engineering Excellence. Innovation. Reliability."/>
+  </picture>
 </p>
 
-<p align="center"><sub>ZIUAI &nbsp;·&nbsp; Official GitHub Organization</sub></p>
+<p align="center"><sub>ZIU AI &nbsp;·&nbsp; Official GitHub Organization</sub></p>

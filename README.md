@@ -2,7 +2,7 @@
 
 This repository holds the ZIUAI organization profile and shared GitHub community files.
 
-The organization profile content lives in [profile/README.md](profile/README.md).
+The organization profile content lives in [profile/README.md](profile/README.md). Its artwork in `profile/assets/` follows the ZIU AI website theme and is generated: edit [tools/build-profile-assets.mjs](tools/build-profile-assets.mjs) and run `node tools/build-profile-assets.mjs`.
 
 Engineering standards for the team (Developer Handbook, Before Development Checklist and Before Launch Checklist) live in [docs/README.md](docs/README.md).
 
